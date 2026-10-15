@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUserScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserScore>
+    <Gamer>X</Gamer>
+    <Gains>0</Gains>
+    <Losses>0</Losses>
+    <Draws>34</Draws>
+  </UserScore>
+  <UserScore>
+    <Gamer>0</Gamer>
+    <Gains>0</Gains>
+    <Losses>0</Losses>
+    <Draws>34</Draws>
+  </UserScore>
+</ArrayOfUserScore>

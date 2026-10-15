@@ -1,0 +1,38 @@
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.exe.config
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.exe
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.pdb
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csprojResolveAssemblyReference.cache
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.Properties.Resources.resources
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.GenerateResource.Cache
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.exe
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.pdb
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.frmTicTacToe.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.exe.config
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.frmTicTacToe.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.Properties.Resources.resources
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.GenerateResource.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.CoreCompileInputs.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.CopyComplete
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.exe
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.AssemblyReference.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.exe.config
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.exe
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameForms.pdb
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.AssemblyReference.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.frmTicTacToe.resources
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.Properties.Resources.resources
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.GenerateResource.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.csproj.CoreCompileInputs.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacTo.355D307A.Up2Date
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.exe
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameForms\obj\Debug\TicTacToeGameForms.pdb

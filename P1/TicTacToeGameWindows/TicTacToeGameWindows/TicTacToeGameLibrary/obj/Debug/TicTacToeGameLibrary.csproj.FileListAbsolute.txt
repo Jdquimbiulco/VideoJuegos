@@ -1,0 +1,23 @@
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.dll
+C:\Users\Labs-DCCO\documents\visual studio 2017\Projects\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.dll
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.pdb
+C:\Users\cxvil\OneDrive\Documentos\Visual Studio 2017\Code Snippets\Visual C#\My Code Snippets\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csproj.AssemblyReference.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csproj.AssemblyReference.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.dll
+C:\Users\juanitoWD\Downloads\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.pdb
+C:\Users\juanitoWD\Documents\VideoJuegos\VideoJuegos\P1\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.dll
+C:\Users\juanitoWD\Documents\VideoJuegos\VideoJuegos\P1\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\bin\Debug\TicTacToeGameLibrary.pdb
+C:\Users\juanitoWD\Documents\VideoJuegos\VideoJuegos\P1\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csproj.AssemblyReference.cache
+C:\Users\juanitoWD\Documents\VideoJuegos\VideoJuegos\P1\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\juanitoWD\Documents\VideoJuegos\VideoJuegos\P1\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.dll
+C:\Users\juanitoWD\Documents\VideoJuegos\VideoJuegos\P1\TicTacToeGameWindows\TicTacToeGameWindows\TicTacToeGameLibrary\obj\Debug\TicTacToeGameLibrary.pdb
